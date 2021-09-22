@@ -1,7 +1,7 @@
 # Azure Machine Learning
 
 
-Neste repositótio armazeno o relatório final da Pós-Graduação em Data Science & Business Analytics realizada no ISEG, Universidade de Lisboa.
+Neste repositório armazeno o relatório final da Pós-Graduação em Data Science & Business Analytics realizada no ISEG, Universidade de Lisboa.
 
 ## O Projeto
 
@@ -9,7 +9,7 @@ O projeto consistia em criar uma solução à qual faríamos a ingestão dos dad
 
 ### Problema de Negócio
 
-Antes de qualquer decisão eu e meu colega decidimos por utilizar dados de uma farmacéutica para realizar previsão de Churn de clientes.
+Previsão do Churn de clientes em uma empresa farmacéutica.
 
 ### Estrutura Final
 
